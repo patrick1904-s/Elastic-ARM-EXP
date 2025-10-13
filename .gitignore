@@ -1,0 +1,7 @@
+# this is is a git ignore congfiguration file
+
+# ISO image File
+minix_R3.3.0-588a35b.iso
+
+# Virtual Disk image
+minix.img 
